@@ -1,0 +1,5 @@
+	<con:reason>
+XML to Native nXSD translation failed for the nXSD QIMobileAPI/Resources/nxsd_schema_ministatementresponse : Translation Failure.
+Failed to translate XML to JSON. Cannot write end element: Amount
+The data does not conform to the NXSD schema. Please correct the problem.
+</con:reason>
